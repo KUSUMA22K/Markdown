@@ -44,9 +44,7 @@ Github(https://vrsidhharatha.ac.in)
 **Data**  
 |Name|College|Branch|  
 |----|----|----|
-
 |abc|VRSEC|IT|    
-
 |xyz|VRSEC|CSE|  
 
 ~~strikedText~~  
