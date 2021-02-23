@@ -49,8 +49,9 @@ Github(https://vrsidhharatha.ac.in)
 
 ~~strikedText~~  
 - [x] checkbox       
-- [ ] one - a     
-- [x] one - b     
+- [ ] one      
+     - [ ] one- a                
+     - [x] one - b     
 
 **code** 
  
